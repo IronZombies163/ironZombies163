@@ -1,10 +1,8 @@
 Алоха ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) меня зовут Дмитрий
 ===============================================================================================================================
 <div>
-  <img height="300" width="700" alt="GIF" align="center" src="https://i.pinimg.com/originals/bf/d4/bb/bfd4bb1d9c46275debde227178855ab7.gif">
+  <img height="300"  alt="GIF" align="center" src="https://github.com/IronZombies163/ironZombies163/blob/main/%D0%BB%D0%B0%D0%BC%D0%BD%D0%BE%D0%B2%D1%8B%D0%B9%D0%A4%D0%BE%D0%BD%D0%B4%D0%BB%D1%8FGItHub.gif">
 </div>
-<br>
-<br>
 <br>
 
 # Обо мне 💬 :
