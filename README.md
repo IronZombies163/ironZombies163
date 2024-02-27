@@ -8,16 +8,16 @@
 # Обо мне 💬 :
 
 
-#### \-Мне 19 лет, я стремлюсь стать опытным Java-разработчиком и создавать качественные, масштабируемые приложения. За время своего обучения я попробовал свои силы в С#, Python, JavaScript, но больше всего меня зацепила Java.
+### \-Мне 19 лет, я стремлюсь стать опытным Java-разработчиком и создавать качественные, масштабируемые приложения. За время своего обучения я попробовал свои силы в С#, Python, JavaScript, но больше всего меня зацепила Java.
 
 
 <br>
 
-- :telescope: Участвовал в бассейне Школы 21 от Сбера.
+###- :telescope: Участвовал в бассейне Школы 21 от Сбера.
 
-- :seedling: Прошел виртуальную стажировку от Сбера.
+###- :seedling: Прошел виртуальную стажировку от Сбера.
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-IceBaguette-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/IseBaguette) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:simonovdmitiyalex@gmail.com)
+###- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-IceBaguette-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/IseBaguette) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:simonovdmitiyalex@gmail.com)
 
 ---
 
