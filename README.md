@@ -8,20 +8,20 @@
 # Обо мне 💬 :
 
 
-### \-Мне 19 лет, я стремлюсь стать опытным Java-разработчиком и создавать качественные, масштабируемые приложения. За время своего обучения я попробовал свои силы в С#, Python, JavaScript, но больше всего меня зацепила Java.
+### Мне 19 лет, я стремлюсь стать опытным Java-разработчиком и создавать качественные, масштабируемые приложения. За время своего обучения я попробовал свои силы в С#, Python, JavaScript, но больше всего меня зацепила Java.
 
 
 <br>
 
-###- :telescope: Участвовал в бассейне Школы 21 от Сбера.
+### :bulb:  Участвовал в бассейне Школы 21 от Сбера.
 
-###- :seedling: Прошел виртуальную стажировку от Сбера.
+### :seedling: Прошел виртуальную стажировку от Сбера.
 
-###- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-IceBaguette-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/IseBaguette) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:simonovdmitiyalex@gmail.com)
+### :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-IceBaguette-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/IseBaguette) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:simonovdmitiyalex@gmail.com)
 
 ---
 
-### Технологий 💻
+### :octocat: Технологий 
 <p> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
@@ -34,7 +34,7 @@
 
 ---
 
-### Инструменты 🛠
+### 🛠 Инструменты 
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
